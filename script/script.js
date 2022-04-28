@@ -16,7 +16,7 @@ btn.addEventListener("click", () => {
   offText.style.color = "#f0cc4b";
   bg.style.backgroundColor = "white";
   btn.style.backgroundColor = "#f0cc4b";
-  img.src = "light-bulb-on.png" 
+  img.src = "../images/light-bulb-on.png" 
   img.alt = "The lightbulb is on";
   } 
   else if (bg.style.backgroundColor = "white")
